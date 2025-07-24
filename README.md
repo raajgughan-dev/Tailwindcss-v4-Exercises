@@ -1,3 +1,5 @@
+![TailwindCSS](image/TailwindCSS.png "TailwindCSS Background")
+
 # Tailwind CSS v4 Project Ideas by Difficulty
 This list provides project ideas to help you learn and master Tailwind CSS v4, broken down into beginner, intermediate, and professional levels.
 
