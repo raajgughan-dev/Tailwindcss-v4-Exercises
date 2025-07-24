@@ -20,7 +20,7 @@ These projects are great for getting started with Tailwind CSS, focusing on basi
 
     * **Key Tailwind Features:** ``bg-``, ``rounded-``, ``shadow-``, ``w-``, ``h-``, ``object-cover``, ``group-hover:``.
 
-3. ****Login/Registration Form:**
+3. **Login/Registration Form:**
 
     * **Description:** Build a simple login or registration form with input fields, labels, a submit button, and basic validation styling (e.g., error messages).
 
@@ -29,7 +29,7 @@ These projects are great for getting started with Tailwind CSS, focusing on basi
     * **Key Tailwind Features:** ``border-``, ``focus:ring-``, ``placeholder-``, ``disabled:``, ``rounded-full``.
 
 
-4. ****Navigation Bar (Navbar):**
+4. **Navigation Bar (Navbar):**
 
     * **Description:** Create a responsive navigation bar with a logo, navigation links, and a hamburger menu for mobile views.
 
