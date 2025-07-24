@@ -6,7 +6,7 @@ These projects are great for getting started with Tailwind CSS, focusing on basi
 
 1. **Simple Blog Post Layout:**
 
-    * **Description:****** Create a single blog post page with a header, navigation, article content (title, author, date, body text), and a footer.
+    * **Description:** Create a single blog post page with a header, navigation, article content (title, author, date, body text), and a footer.
 
     * **Focus:** Typography utilities, spacing, basic flexbox/grid for layout, responsive adjustments for mobile and desktop.
 
@@ -20,22 +20,22 @@ These projects are great for getting started with Tailwind CSS, focusing on basi
 
     * **Key Tailwind Features:** ``bg-``, ``rounded-``, ``shadow-``, ``w-``, ``h-``, ``object-cover``, ``group-hover:``.
 
-3. ****Login/Registration Form:****
+3. ****Login/Registration Form:**
 
-    * ****Description:**** Build a simple login or registration form with input fields, labels, a submit button, and basic validation styling (e.g., error messages).
+    * **Description:** Build a simple login or registration form with input fields, labels, a submit button, and basic validation styling (e.g., error messages).
 
-    * ****Focus:**** Form styling, input states (``focus:``), button design, basic layout.
+    * **Focus:** Form styling, input states (``focus:``), button design, basic layout.
 
-    * ****Key Tailwind Features:**** ``border-``, ``focus:ring-``, ``placeholder-``, ``disabled:``, ``rounded-full``.
+    * **Key Tailwind Features:** ``border-``, ``focus:ring-``, ``placeholder-``, ``disabled:``, ``rounded-full``.
 
 
-4. ****Navigation Bar (Navbar):****
+4. ****Navigation Bar (Navbar):**
 
-    * ****Description:**** Create a responsive navigation bar with a logo, navigation links, and a hamburger menu for mobile views.
+    * **Description:** Create a responsive navigation bar with a logo, navigation links, and a hamburger menu for mobile views.
 
-    * ****Focus:**** Flexbox for alignment, responsive visibility (``hidden``, ``lg:flex``), transitions for menu animation.
+    * **Focus:** Flexbox for alignment, responsive visibility (``hidden``, ``lg:flex``), transitions for menu animation.
 
-    * ****Key Tailwind Features:**** ``justify-between``, ``items-center``, ``space-x-``, ``transition``, ``duration-``.
+    * **Key Tailwind Features:** ``justify-between``, ``items-center``, ``space-x-``, ``transition``, ``duration-``.
 
 ## Intermediate Projects
 These projects build upon the basics, introducing more complex layouts, interactive elements, and integrating with JavaScript for dynamic behavior.
@@ -56,7 +56,7 @@ These projects build upon the basics, introducing more complex layouts, interact
 
     * **Key Tailwind Features:** ``fixed``, ``top-``, ``left-``, ``z-``, ``min-h-screen``, ``overflow-hidden``.
 
-3. **Interactive Image Gallery/Carousel**:**
+3. **Interactive Image Gallery/Carousel**:
 
     * **Description:** Create an image gallery with thumbnails and a main display area, or a basic image carousel with navigation arrows and indicators.
 
